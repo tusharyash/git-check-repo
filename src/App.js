@@ -10,7 +10,6 @@ function App() {
         Hello World {name}!
         <Video></Video>
         <Thumb></Thumb>
-        <Thumb></Thumb>
     </div>
   );
 }
